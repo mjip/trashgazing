@@ -1,9 +1,10 @@
 ### TODO:
 #### Backend:
 (Python)
-- sgp4 1.4 to analyze orbits, positions/velocities
-- space-track.org's API to get data, easy to parse based on object-type (DEBRIS)
 - can also extract metadata (mission, country of origin, year) for annotation purposes
+- translate GPS of current location to position (XYZ)
+- filter it for points that fall into the same octant
+- filter based on closer ones
 
 #### Frontend:
 (Javascript, WebGL)
