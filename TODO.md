@@ -1,11 +1,11 @@
-####TODO:
-#####Backend:
+#TODO:
+##Backend:
 (Python)
 - sgp4 1.4 to analyze orbits, positions/velocities
 - space-track.org's API to get data, easy to parse based on object-type (DEBRIS)
 - can also extract metadata (mission, country of origin, year) for annotation purposes
 
-#####Frontend:
+##Frontend:
 (Javascript, WebGL)
 - WebGL for rendering (doing 3D->2D projection)
 - display as a circle oriented on compass directions
