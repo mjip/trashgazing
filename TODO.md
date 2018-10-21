@@ -2,9 +2,11 @@
 #### Backend:
 (Python)
 [x] sgp4 1.4 to analyze orbits, positions/velocities
-[] space-track.org's API to get data, easy to parse based on object-type (DEBRIS)
+[x] space-track.org's API to get data, easy to parse based on object-type (DEBRIS)
 [] can also extract metadata (mission, country of origin, year) for annotation purposes
-[] Filter the original list of debris to get the nearby debris only (use python's `filter()` or `map()`)
+[] translate GPS of current location to position (XYZ)
+[] filter the original list of debris to get the nearby debris only (use python's `filter()` or `map()`)
+[] (idea) filter for points that fall into the same octant
 
 #### Frontend:
 (Javascript, WebGL)
