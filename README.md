@@ -6,4 +6,4 @@ onto a circle based on compass coordinates. So, if you were to lie on your back,
 would be able to view trash constellations and trash dwarf planets and trash asteroids
 in realtime. 
 
-Written in Python/JS/WebGL. 
+Written in Python/JS/WebGL for the 48 hour NASA Space Apps Hackathon 2018. 
