@@ -1,4 +1,6 @@
 # Trashgazing
+Main fork is https://github.com/pseudo-apt/trashgazing
+
 Web app that generates a projection of space debris coordinates from space-track.com.
 Based on current position (defaults to downtown Montreal), it will grab all coordinates
 of near- and medium-earth space debris (roughly ~30,000 at time of creation) and plot
